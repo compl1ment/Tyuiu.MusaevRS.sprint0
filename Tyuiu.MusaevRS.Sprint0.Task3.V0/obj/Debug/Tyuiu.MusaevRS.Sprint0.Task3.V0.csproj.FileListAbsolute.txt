@@ -1,0 +1,10 @@
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task3.V0\bin\Debug\Tyuiu.MusaevRS.Sprint0.Task3.V0.exe.config
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task3.V0\bin\Debug\Tyuiu.MusaevRS.Sprint0.Task3.V0.exe
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task3.V0\bin\Debug\Tyuiu.MusaevRS.Sprint0.Task3.V0.pdb
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task3.V0\bin\Debug\Tyuiu.MusaevRS.Sprint0.Task2.V0.Lib.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task3.V0\bin\Debug\Tyuiu.MusaevRS.Sprint0.Task2.V0.Lib.pdb
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task3.V0\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task3.V0.csproj.AssemblyReference.cache
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task3.V0\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task3.V0.csproj.CoreCompileInputs.cache
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task3.V0\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task3.V0.csproj.CopyComplete
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task3.V0\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task3.V0.exe
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task3.V0\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task3.V0.pdb
