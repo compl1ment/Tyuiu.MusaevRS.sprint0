@@ -1,0 +1,16 @@
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test.csproj.AssemblyReference.cache
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test.csproj.CoreCompileInputs.cache
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\bin\Debug\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\bin\Debug\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test.pdb
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\bin\Debug\Tyuiu.MusaevRS.Sprint0.Task5.V0.Lib.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\bin\Debug\Tyuiu.MusaevRS.Sprint0.Task5.V0.Lib.pdb
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test.csproj.CopyComplete
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task5.V0.Test.pdb
