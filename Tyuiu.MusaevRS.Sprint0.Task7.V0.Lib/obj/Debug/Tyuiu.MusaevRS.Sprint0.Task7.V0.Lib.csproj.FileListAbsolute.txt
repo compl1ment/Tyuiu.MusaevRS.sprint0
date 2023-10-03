@@ -1,0 +1,5 @@
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task7.V0.Lib\bin\Debug\Tyuiu.MusaevRS.Sprint0.Task7.V0.Lib.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task7.V0.Lib\bin\Debug\Tyuiu.MusaevRS.Sprint0.Task7.V0.Lib.pdb
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task7.V0.Lib\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task7.V0.Lib.csproj.CoreCompileInputs.cache
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task7.V0.Lib\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task7.V0.Lib.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.sprint0\Tyuiu.MusaevRS.Sprint0.Task7.V0.Lib\obj\Debug\Tyuiu.MusaevRS.Sprint0.Task7.V0.Lib.pdb
